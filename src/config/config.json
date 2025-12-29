@@ -1,7 +1,7 @@
 {
   "site": {
-    "title": "Bigspring Light Astro",
-    "base_url": "https://bigspring-light-astro.vercel.app",
+    "title": "My Site Title",
+    "base_url": "https://yourwebsite.com",
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/favicon.png",
@@ -10,24 +10,20 @@
     "logo_height": "38",
     "logo_text": "Bigspring Light"
   },
-
   "settings": {
     "pagination": 4,
     "summary_length": 200
   },
-
   "nav_button": {
     "enable": true,
     "label": "Get Started",
     "link": "/contact"
   },
-
   "params": {
     "contact_form_action": "#",
     "footer_content": "Lorem ipsum dolor sit amet, consectetur elit. Consjat tristique eget amet, tempus eu at cttur.",
     "copyright": "Designed and Developed By [Themefisher](https://themefisher.com/)"
   },
-
   "metadata": {
     "meta_author": "Themefisher",
     "meta_image": "/images/og-image.png",
